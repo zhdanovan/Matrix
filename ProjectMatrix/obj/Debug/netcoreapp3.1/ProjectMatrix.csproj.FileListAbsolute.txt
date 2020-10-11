@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\ProjectMatrix\ProjectMatrix\bin\Debug\netcoreapp3.1\ProjectMatrix.exe
+C:\Users\Lenovo\source\repos\ProjectMatrix\ProjectMatrix\bin\Debug\netcoreapp3.1\ProjectMatrix.deps.json
+C:\Users\Lenovo\source\repos\ProjectMatrix\ProjectMatrix\bin\Debug\netcoreapp3.1\ProjectMatrix.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ProjectMatrix\ProjectMatrix\bin\Debug\netcoreapp3.1\ProjectMatrix.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\ProjectMatrix\ProjectMatrix\bin\Debug\netcoreapp3.1\ProjectMatrix.dll
+C:\Users\Lenovo\source\repos\ProjectMatrix\ProjectMatrix\bin\Debug\netcoreapp3.1\ProjectMatrix.pdb
+C:\Users\Lenovo\source\repos\ProjectMatrix\ProjectMatrix\obj\Debug\netcoreapp3.1\ProjectMatrix.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ProjectMatrix\ProjectMatrix\obj\Debug\netcoreapp3.1\ProjectMatrix.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ProjectMatrix\ProjectMatrix\obj\Debug\netcoreapp3.1\ProjectMatrix.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ProjectMatrix\ProjectMatrix\obj\Debug\netcoreapp3.1\ProjectMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ProjectMatrix\ProjectMatrix\obj\Debug\netcoreapp3.1\ProjectMatrix.dll
+C:\Users\Lenovo\source\repos\ProjectMatrix\ProjectMatrix\obj\Debug\netcoreapp3.1\ProjectMatrix.pdb
+C:\Users\Lenovo\source\repos\ProjectMatrix\ProjectMatrix\obj\Debug\netcoreapp3.1\ProjectMatrix.genruntimeconfig.cache
